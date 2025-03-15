@@ -2,11 +2,19 @@
 alias ...='cd ../..'
 alias ....='cd ../../..'# Created by newuser for 5.8.1
 
-alias cat='batcat'
-alias ls='exa'
-alias ll='exa -l'
-alias la='exa -la'
-alias pip='pip3'
-alias python='python3'
+# for editor
 alias vi='nvim'
 alias vim='nvim'
+
+# language
+alias pip='pip3'
+alias python='python3'
+
+# command line tools
+alias cat='batcat'
+alias grep='ripgrep'
+alias ls='eza'
+alias ll='eza -l'
+alias la='eza -la'
+alias ps='procs'
+

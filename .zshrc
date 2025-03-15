@@ -6,7 +6,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 # .zsh 配下にある設定ファイルを読み込む
-source ~/.zsh/alias.zsh
-source ~/.zsh/extras.zsh
-source ~/.zsh/ohmy.zsh
+source ~/dotfiles/.zsh/rc/ohmy.zsh
+source ~/dotfiles/.zsh/rc/alias.zsh
+source ~/dotfiles/.zsh/rc/extras.zsh
 

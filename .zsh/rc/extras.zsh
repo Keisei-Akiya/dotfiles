@@ -34,4 +34,5 @@ eval "$(uv generate-shell-completion zsh)"
 eval "$(uvx --generate-shell-completion zsh)"
 
 # homebrew
+export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
