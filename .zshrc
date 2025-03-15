@@ -9,4 +9,3 @@ fi
 source ~/dotfiles/.zsh/rc/ohmy.zsh
 source ~/dotfiles/.zsh/rc/alias.zsh
 source ~/dotfiles/.zsh/rc/extras.zsh
-
