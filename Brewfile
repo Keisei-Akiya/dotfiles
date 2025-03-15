@@ -2,6 +2,8 @@
 tap "tkengo/highway"
 
 # install
+brew "gcc"
+
 # shell
 brew "zsh"
 brew "zsh-syntax-highlighting"
