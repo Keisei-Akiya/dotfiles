@@ -66,4 +66,4 @@
 !.gitignore
 !.gitkeep
 
-Brewfile
+!Brewfile
