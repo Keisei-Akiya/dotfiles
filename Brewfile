@@ -27,7 +27,7 @@ brew "nodenv"
 # brew "ruby-build"
 
 # command line tools
-brew "exa" # ls
+brew "eza" # ls
 brew "bat" # bat
 brew "fd" # find
 brew "procs" # ps
@@ -35,7 +35,7 @@ brew "ripgrep" # grep
 brew "watch"
 brew "htop"
 brew "tig"
-brew "imagemagick"
+# brew "imagemagick"
 brew "jq"
 brew "peco"
 brew "tmux"
