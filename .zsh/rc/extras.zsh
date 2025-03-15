@@ -36,3 +36,6 @@ eval "$(uvx --generate-shell-completion zsh)"
 # homebrew
 export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+# zsh-syntax-highlighting
+source /home/linuxbrew/.linuxbrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
