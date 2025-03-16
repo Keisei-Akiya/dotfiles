@@ -30,18 +30,22 @@ brew "nodenv"
 # brew "ruby-build"
 
 # command line tools
+brew "awscli"
+brew "bat" # cat
 brew "curlie"
+brew "dust"
 brew "eza" # ls
-brew "bat" # bat
 brew "fd" # find
-brew "procs" # ps
-brew "ripgrep" # grep
-brew "watch"
+brew "ffmpeg"
+brew "glow" # markdown viewer
 brew "htop"
-brew "tig"
-# brew "imagemagick"
+brew "imagemagick"
 brew "jq"
 brew "peco"
+brew "procs" # ps
+brew "ripgrep" # grep
+brew "tig"
 brew "tmux"
 brew "tree"
-brew "awscli"
+brew "watch"
+brew "zoxide" # cd

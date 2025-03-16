@@ -39,3 +39,6 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 # zsh-syntax-highlighting
 source /home/linuxbrew/.linuxbrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# command line tools
+eval "$(zoxide init zsh)"
