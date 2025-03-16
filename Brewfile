@@ -30,6 +30,7 @@ brew "nodenv"
 # brew "ruby-build"
 
 # command line tools
+brew "curlie"
 brew "eza" # ls
 brew "bat" # bat
 brew "fd" # find

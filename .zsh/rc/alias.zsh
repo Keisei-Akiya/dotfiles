@@ -12,6 +12,7 @@ alias python='python3'
 
 # command line tools
 alias cat='batcat'
+alias curl='curlie'
 alias grep='ripgrep'
 alias ls='eza'
 alias ll='eza -l'
