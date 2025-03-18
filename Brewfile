@@ -2,7 +2,17 @@
 tap "tkengo/highway"
 
 # install
+brew "curl"
+brew "git"
+brew "wget"
 brew "gcc"
+brew "zlib"
+brew "libzip"
+brew "bzip2"
+brew "readline"
+brew "openssl"
+brew "pkg-config"
+brew "autoconf"
 
 # shell
 brew "zsh"
