@@ -9,3 +9,4 @@ fi
 source ~/dotfiles/.zsh/ohmy.zsh
 source ~/dotfiles/.zsh/alias.zsh
 source ~/dotfiles/.zsh/extras.zsh
+source ~/dotfiles/.zsh/disable_corrections.zsh
