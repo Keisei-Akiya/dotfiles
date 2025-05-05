@@ -56,6 +56,9 @@ eval "$(uvx --generate-shell-completion zsh)"
 export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
+# postgresql
+export PATH="/home/linuxbrew/.linuxbrew/opt/postgresql@17/bin:$PATH"
+
 # zsh-syntax-highlighting
 source /home/linuxbrew/.linuxbrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
