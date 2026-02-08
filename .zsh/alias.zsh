@@ -5,6 +5,7 @@ alias ....='cd ../../..'# Created by newuser for 5.8.1
 # for editor
 alias vi='nvim'
 alias vim='nvim'
+alias anti="/mnt/c/Users/keise/AppData/Local/Programs/Antigravity/Antigravity.exe"
 
 # language
 alias pip='pip3'

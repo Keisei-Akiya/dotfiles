@@ -1,7 +1,7 @@
 # Vim キーバインドを有効にする
 bindkey -v
 # Add "jj" shortcut to enter NOMAL mode
-bindkey -M viins 'jj' vi-cmd-mode
+bindkey -M viins 'jk' vi-cmd-mode
 # カーソルの形
 function zle-line-init() {
     if [[ $KEYMAP == vicmd ]]; then
