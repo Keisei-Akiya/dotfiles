@@ -15,32 +15,22 @@ brew "pkg-config"
 brew "autoconf"
 
 # shell
-brew "zsh"
-brew "zsh-autosuggestions"
-brew "zsh-syntax-highlighting"
+brew "fish"
+brew "starship"
 
 # for editor
 brew "neovim"
-brew "ctags"
-brew "tkengo/highway/highway"
+brew "lazygit"
 
 # update commands
 brew "git"
 brew "rsync"
 brew "gawk"
 
-# language
-# brew "perl"
-
 # language version managers
 brew "uv"
-brew "nodenv"
-
-# for build
-# brew "ruby-build"
 
 # command line tools
-brew "awscli"
 brew "bat" # cat
 brew "curlie"
 brew "dust"
@@ -59,3 +49,5 @@ brew "tmux"
 brew "tree"
 brew "watch"
 brew "zoxide" # cd
+brew "fzf"
+
