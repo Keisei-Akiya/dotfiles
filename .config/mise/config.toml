@@ -1,0 +1,25 @@
+[tools]
+# editor
+neovim = "latest"
+lazygit = "latest"
+
+# lang
+bun = "latest"
+node = "latest"
+rust = "latest"
+uv = "latest"
+
+zellij = "latest"
+starship = "latest"
+
+# cli tools
+bat = "latest"
+curlie = "latest"
+dust = "latest"
+eza = "latest"
+fd = "latest"
+fzf = "latest"
+ripgrep = "latest"
+yazi = "latest"
+zoxide = "latest"
+
