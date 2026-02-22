@@ -4,7 +4,7 @@ return {
   keys = {
     -- <leader>y で Yazi を起動
     {
-      "<leader>",
+      "<leader>y",
       "<cmd>Yazi<cr>",
       desc = "Open yazi at the current file",
     },
