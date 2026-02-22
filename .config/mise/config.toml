@@ -8,6 +8,8 @@ bun = "latest"
 node = "latest"
 rust = "latest"
 uv = "latest"
+ruff = "latest"
+biome = "latest"
 
 zellij = "latest"
 starship = "latest"
